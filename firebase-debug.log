@@ -1,0 +1,16 @@
+[debug] [2025-11-21T12:15:10.490Z] ----------------------------------------------------------------------
+[debug] [2025-11-21T12:15:10.499Z] Command:       /home/ken-tuei/.nvm/versions/node/v20.19.5/bin/node /home/ken-tuei/.nvm/versions/node/v20.19.5/bin/firebase emulators:start
+[debug] [2025-11-21T12:15:10.500Z] CLI Version:   14.26.0
+[debug] [2025-11-21T12:15:10.500Z] Platform:      linux
+[debug] [2025-11-21T12:15:10.500Z] Node Version:  v20.19.5
+[debug] [2025-11-21T12:15:10.500Z] Time:          Fri Nov 21 2025 07:15:10 GMT-0500 (Eastern Standard Time)
+[debug] [2025-11-21T12:15:10.501Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-11-21T12:15:10.571Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-11-21T12:15:10.572Z] > authorizing via signed-in user (kentuei05@gmail.com)
+[debug] [2025-11-21T12:15:15.579Z] Error: Timed out.
+    at Timeout._onTimeout (/home/ken-tuei/.nvm/versions/node/v20.19.5/lib/node_modules/firebase-tools/lib/utils.js:275:49)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+[error] 
+[error] Error: An unexpected error has occurred.

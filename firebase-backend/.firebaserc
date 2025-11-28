@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "dev": "maskani-app",
-    "default": "maskani-app"
-  },
-  "targets": {},
-  "etags": {}
-}

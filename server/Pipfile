@@ -9,30 +9,20 @@ flask_sqlalchemy = "*"
 flask_migrate = "*"
 flask_cors = "*"
 flask_jwt_extended = "*"
-
 sqlalchemy = "*"
 alembic = "*"
-
 python-dotenv = "*"
 requests = "*"
-
-# Authentication + Password Hashing
 bcrypt = "*"
 google-auth = "*"
 google-auth-oauthlib = "*"
 google-auth-httplib2 = "*"
-
-# Firebase Admin SDK (for FCM notifications)
 firebase-admin = "*"
-
-# For logging, async handling, etc.
 blinker = "*"
-
-# Optional: M-Pesa (you use requests only)
-# No special package needed
+apscheduler = "*"
+flask-migrate = "*"
 
 [dev-packages]
-# Only if you want testing
 pytest = "*"
 
 [requires]
